@@ -3,6 +3,7 @@
 This project builds machine learning models to detect anomalies and predict failures in metro train **Air Production Units (APU)** using time-series sensor data.
 
 ## Dataset
+<img width="355" height="203" alt="image" src="https://github.com/user-attachments/assets/aeaa42ef-8cac-45c0-aa0f-1dc09cacaf4d" />
 
 MetroPT dataset
 
@@ -12,6 +13,7 @@ MetroPT dataset
 - Fault types include air leaks and compressor failures
 
 ## Tasks
+<img width="353" height="197" alt="image" src="https://github.com/user-attachments/assets/f078af29-3f77-4049-94e6-3e0d7ccd735a" />
 
 1. Fault Detection (Classification)
 2. Remaining Useful Life Prediction (Regression)
